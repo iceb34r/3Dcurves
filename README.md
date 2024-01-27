@@ -6,5 +6,12 @@
 ```
 - Go to the proejct directory
 - Open solution file (`curvesproj.sln`) via MS Visual Studio
-- Set up the configuration
+- Set up the configuration (`MSVC ISO C++14`)
 - Run project
+
+## How It Works
+- Randomly creates a container with curves (Ellipse, Circle, 3D Helix)
+- Prints coordinates and first derivative for each curve in the container
+- Shares circles with second container
+- Sorts second container in the ascending order of circles radii
+- Computes the total sum of radii of all curves in the second container
