@@ -15,3 +15,7 @@
 - Shares circles with second container
 - Sorts second container in the ascending order of circles radii
 - Computes the total sum of radii of all curves in the second container
+
+## Screenshot
+
+![](https://imgur.com/GqooxYC.png)
